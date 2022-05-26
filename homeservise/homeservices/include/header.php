@@ -24,8 +24,8 @@
   
         <a class="nav-link" class="btn" style="color:fuchsia;background-color:green;"  href="commande.php">gereé les commandes</a>
         <a class="nav-link"></a> <a class="nav-link"  class="btn" style="color:fuchsia;background-color:green;" href="users.php">gereé les utilisateur </a>
-        <a class="nav-link"></a>  <a class="nav-link"  class="btn" style="color:fuchsia;background-color:green;" href="admin.php">gereé les admins </a>
-        <a class="nav-link"></a> <a class="nav-link"  class="btn" style="color:black;background-color:fuchsia;" href="enregistrerAd.php">enregistrer les admins </a>
+        <a class="nav-link"></a>  <a class="nav-link"  class="btn" style="color:fuchsia;background-color:green;" href="admin.php">gereé les fournisseur </a>
+        <a class="nav-link"></a> <a class="nav-link"  class="btn" style="color:black;background-color:fuchsia;" href="enregistrerAd.php">enregistrer les fournisseur </a>
         <a class="nav-link"></a><a class="nav-link"  class="btn" style="color:black;background-color:fuchsia;" href="register.php">enregistrer les users </a>
         <a class="nav-link"></a> <a class="nav-link"  class="btn" style="color:black;background-color:blue;margin:auto;" 
         href="logout.php">Log Out</a>
